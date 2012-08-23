@@ -1,0 +1,4 @@
+# name: Reference
+# key: ref
+# --
+:ref:\`$1\`$0

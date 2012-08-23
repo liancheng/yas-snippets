@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Escaped emphasis (italics)
+# key: ei
+# --
+\\ *$1*\\ $0

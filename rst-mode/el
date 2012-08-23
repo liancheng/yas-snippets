@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Escaped inline literal
+# key: el
+# --
+\\ \`\`$1\`\`\\ $0

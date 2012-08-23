@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Inline literal
+# key: l
+# --
+\`\`$1\`\`$0

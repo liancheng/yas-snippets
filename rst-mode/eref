@@ -1,0 +1,4 @@
+# name: Escaped reference
+# key: eref
+# --
+\\ :ref:\`$1\`\\ $0

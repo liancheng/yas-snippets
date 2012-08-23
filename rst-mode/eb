@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Escaped strong emphasis (bold)
+# key: eb
+# --
+\\ **$1**\\ $0

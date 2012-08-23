@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Strong emphasis (bold)
+# key: b
+# --
+**$1**$0

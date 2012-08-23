@@ -1,0 +1,4 @@
+# name: Escaped footnote
+# key: efn
+# --
+\\ [#]_\\ $0

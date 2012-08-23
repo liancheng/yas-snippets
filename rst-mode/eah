@@ -1,0 +1,4 @@
+# name: Escaped anonymous hyperlink
+# key: eal
+# --
+\\ \`$1\`__\\ $0

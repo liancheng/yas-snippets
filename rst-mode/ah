@@ -1,0 +1,4 @@
+# name: Anonymous hyperlink
+# key: al
+# --
+\`$1\`__$0

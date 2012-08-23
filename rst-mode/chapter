@@ -1,0 +1,7 @@
+# name: Chapter title
+# key: chapter
+# --
+${1:Chapter}
+${1:$(make-string (string-width text) ?\=)}
+
+$0
