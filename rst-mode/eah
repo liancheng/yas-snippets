@@ -1,4 +1,5 @@
+# -*- mode: snippet -*-
 # name: Escaped anonymous hyperlink
-# key: eal
+# key: eah
 # --
 \\ \`$1\`__\\ $0

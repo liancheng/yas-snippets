@@ -1,4 +1,5 @@
+# -*- mode: snippet -*-
 # name: Anonymous hyperlink
-# key: al
+# key: ah
 # --
 \`$1\`__$0
